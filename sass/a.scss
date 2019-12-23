@@ -1,0 +1,12 @@
+.header{
+    background: pink;
+    height:200px;
+    width:800px;
+    ul{
+        list-style:none;
+        overflow: hidden;
+        li{
+            float:left;
+        }
+    }
+}
